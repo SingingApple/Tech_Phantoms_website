@@ -1,6 +1,5 @@
 # Tech Phantoms Community Website
 
-
 <p align="center">
 <img width=10% src="https://raw.githubusercontent.com/Ninja-Developers/Tech_Phantoms_website/0982c252efad96e5633c9e59136811a9ab0316ca/src/assets/logo.svg"> &nbsp; <img width=20% src="https://raw.githubusercontent.com/Ninja-Developers/Tech_Phantoms_website/0982c252efad96e5633c9e59136811a9ab0316ca/src/assets/LightMode_techphantoms.svg">
 <p align="center">
@@ -26,7 +25,7 @@ This repository serves as official repository for the Community Website (V2) hos
 
 <p align="justify">
 
-Tech Phantoms is an open tech organization and ❤ to build Open Source software applications. 
+Tech Phantoms is an open tech organization and ❤ to build Open Source software applications.
 We are powered by one of the <a href="https://studentambassadors.microsoft.com/en-US/profile/49532">Microsoft Learn Student Ambassadors</a>. We want to enable people to adapt and change technology according to their own ideas and needs and validate science and knowledge through an Open Access approach. Its launched by dedicated efforts of two undergraduate students and a fully functional core team. We also organize events, mentoring sessions and much more. You can register on V1 website of tech phantoms [here](techphantoms.onrender.com)
 
 </p>
@@ -37,60 +36,61 @@ We are powered by one of the <a href="https://studentambassadors.microsoft.com/e
 
 </p>
 
-    
 ## 🔆 Tech Stack
+
 The project is created using create-react-app and based on React.js framework.
+
 - HTML, CSS
-- Chakra UI
+- Material UI
 - Airtable
 - React.js
 
-
 ## 🚀 Steps to setup development environment
-1.  Clone the repo
- ```bash
- git clone github.com/your_username/Tech_Phantoms_website.git
-```
- 2. Open the folder in your favorite code editor and start adding modifications.
 
- ## 💻 Development guidelines
+1.  Clone the repo
+
+```bash
+git clone github.com/your_username/Tech_Phantoms_website.git
+```
+
+2.  Open the folder in your favorite code editor and start adding modifications.
+
+## 💻 Development guidelines
 
 We are open to contributions. On a note, the deployed branch is `master` we will be merging all your contributions to `development` branch. To know more about how we accept contributions, we recommend you to go through Contributing guidelines.
 
-Development branch is hosted at : https://devtechphantoms.netlify.app/ 
+Development branch is hosted at : https://devtechphantoms.netlify.app/
 
 ## 💻 API KEY Installation (DUMMY)
+
 In order to facilitate development / testing phases, we have generated the following dummy API keys to be used in your environment variables
 Setting Up dummy API KEY
 
 1. Install dotenv `npm i dotenv`
-2. Create .env file in root directory `/` 
+2. Create .env file in root directory `/`
 3. Paste the following code inside .env file.
 
 ```js
-
-REACT_APP_AIRTABLE_API_KEY = keyl7IrslG0riVZjW
-REACT_APP_TEAM_BASE = appeFoa7ggqSOwivF
-REACT_APP_EVENT_BASE = appJcgoSlkORkn7N2
-
+REACT_APP_AIRTABLE_API_KEY = keyl7IrslG0riVZjW;
+REACT_APP_TEAM_BASE = appeFoa7ggqSOwivF;
+REACT_APP_EVENT_BASE = appJcgoSlkORkn7N2;
 ```
 
-
 ## 💻 System Requirements
--  Google Chrome
--  Git
--  Code Editor (Visual Studio Code, Sublime Text)
+
+- Google Chrome
+- Git
+- Code Editor (Visual Studio Code, Sublime Text)
 
 ## 🏆 Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md)  for information on how to contribute to the project.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for information on how to contribute to the project.
 
-##  💼 Code of Conduct
+## 💼 Code of Conduct
 
 We want to facilitate a healthy and constructive community behavior by adopting and enforcing our code of conduct.
 
 Please adhere towards our [Code of Conduct](CODE_OF_CONDUCT.md).
-
 
 ## ❤️ Thanks to our awesome contributors.
 
